@@ -11,16 +11,16 @@
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #ddd;
+    background-color: #fff;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .content
 {
     border-radius: 15px;
-    background-color: #333;
+    background-color: #ddd;
     width: 80%;
-    height: 40%;
+    height: 50%;
     display: flex;
     justify-content: space-between;
     position: relative;
@@ -30,7 +30,7 @@
 {
     content: '';
     position: absolute;
-    background-color: #546;
+    background-color: #7f7;
     width: 40%;
     height: 100%;
     border-radius: 15px;
